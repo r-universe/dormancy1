@@ -5,7 +5,6 @@
 [submodule "adapt3"]
 	path = adapt3
 	url = https://github.com/dormancy1/adapt3
-	subdir = pkg
 [submodule "lefko3"]
 	path = lefko3
 	url = https://github.com/dormancy1/lefko3
